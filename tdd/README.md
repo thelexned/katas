@@ -22,7 +22,7 @@ Write a method String convert(int) that takes a number and converts it to the ac
    5 ➔ V
    
    9 ➔ IX
-   
+
   21 ➔ XXI
   
   50 ➔ L
@@ -39,6 +39,7 @@ Implement Conway's Game of Life. The game consists of a two-dimensional grid of 
 2. Any live cell with two or three live neighbors lives on to the next generation.
 3. Any live cell with more than three live neighbors dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+
 Note: each cell in the grid has eight neighbors, which are the cells adjacent to it on all sides, including diagonals.
 
 ## String calculator Kata
