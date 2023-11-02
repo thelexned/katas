@@ -42,7 +42,7 @@ Implement Conway's Game of Life. The game consists of a two-dimensional grid of 
 
 Note: each cell in the grid has eight neighbors, which are the cells adjacent to it on all sides, including diagonals.
 
-## String calculator Kata
+## String Calculator
 ### Step 1
 Create a simple String calculator with a method signature:
 
