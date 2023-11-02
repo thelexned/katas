@@ -2,10 +2,16 @@
 
 ## FizzBuzz
 Write a program that prints one line for each number from 1 to 100
+
 Usually just print the number itself.
+
 For multiples of three print Fizz instead of the number
+
 For the multiples of five print Buzz instead of the number
+
 For numbers which are multiples of both three and five print FizzBuzz instead of the number
+
+
 
 ## Roman Numerals
 Write a method String convert(int) that takes a number and converts it to the according String representation.
@@ -34,7 +40,13 @@ Write a method String convert(int) that takes a number and converts it to the ac
 1000 ➔ M
 
 ## Game of Life
-Implement Conway's Game of Life. The game consists of a two-dimensional grid of cells, each of which can be alive or dead. The cells evolve in steps, with all the changes occurring at the same time. The rules are as follows:
+Implement Conway's Game of Life. 
+
+The game consists of a two-dimensional grid of cells, each of which can be alive or dead. 
+
+The cells evolve in steps, with all the changes occurring at the same time. 
+
+The rules are as follows:
 1. Any live cell with fewer than two live neighbors dies, as if by underpopulation.
 2. Any live cell with two or three live neighbors lives on to the next generation.
 3. Any live cell with more than three live neighbors dies, as if by overpopulation.
